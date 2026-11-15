@@ -1,4 +1,0 @@
-flask
-# optional, only for diagnostic_streamlit.py:
-# streamlit
-# streamlit-mic-recorder
